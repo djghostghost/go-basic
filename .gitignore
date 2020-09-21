@@ -1,0 +1,4 @@
+.idea
+*.mmd
+*.md5
+go.sum
