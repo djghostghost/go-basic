@@ -1,4 +1,4 @@
-package strings
+package b_strings
 
 import "testing"
 
